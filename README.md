@@ -1,5 +1,7 @@
 # WELCOME !
 
+This exemple allow automatically restart node server and transpile ts in js on each save
+
 ## Launch the server
 
 **1er lancement**
