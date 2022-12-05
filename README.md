@@ -4,24 +4,26 @@ This exemple allow automatically restart node server and transpile ts in js on e
 
 ## Launch the server
 
-**1er lancement**
+**1st launch (install dependencies)**
 
 ```bash
 npm i
 ```
 
-**Ensuite**
+**following run server in dev**
 
 ```bash
 npm run dev
 ```
 
-ou
+or
 
 ```bash
 npm run build:dev
 
-et
+&
 
 npm run start:dev
 ```
+
+now you can go on http://localhost:3000 and see your server is running :)
